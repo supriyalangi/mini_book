@@ -1,0 +1,13 @@
+.navbar{
+    width: 100%;
+    background-color: black;
+    height: 30px;
+    text-align: center;
+    
+}
+.navbar a{
+    color: white;
+    letter-spacing: .2rem;
+    word-spacing: 10px;
+    text-decoration: none;
+}
